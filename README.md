@@ -11,3 +11,5 @@ Se debe ejecutar el proyecto en modo debug y seleccionar el perfil LoginApi.
 }
 
 ```
+
+La base de datos se encuentra realizada en access con el nombre "RegisterUser.accdb" y en el archivo settings se debera configurar la variable Data Source que se encuentra en la cadena de conexion.
